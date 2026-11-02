@@ -1,0 +1,1328 @@
+{
+  "AK": {
+    "direct_procurement_rule": "3.7% direct procurement tax (plus 0.75% for wet marine & transportation) payable annually by April 1 under Alaska Stat. \u00a7 21.33.061.",
+    "direct_procurement_tax_rate": 3.7,
+    "ecp_accepted": true,
+    "ecp_criteria": "NRRA standard criteria: >= $100k premium, qualified risk manager, and meets net worth/revenue/FTE statutory thresholds.",
+    "ecp_statutory_cite": "Alaska Stat. \u00a7 21.34.020",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Credits for return premiums may be offset against quarterly tax liability or claimed as cash refund if no taxable premium exists; carrier fees and inspection fees must be strictly included in taxable premium base per AK DOI Bulletin 04-14.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Alaska: 2.7% premium tax)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Alaska: \u00a7 21.33.061, 3.7% tax annually by April 1)",
+      "wsia_chart": "WSIA Tax Filing Chart (Alaska: Quarterly tax filings and monthly quarterly broker reports)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "AK",
+    "state_name": "Alaska",
+    "statutory_cite": "Alaska Stat. \u00a7 21.34.180, \u00a7 21.33.061, \u00a7 21.34.080; 3 AAC 25.100; Alaska DOI Bulletin 04-14 (Carrier Fee Base Mandate)",
+    "tax_due_dates": [
+      "Quarterly: within 30 days after each calendar quarter; monthly report due within 30 days after end of month"
+    ],
+    "tax_periodicity": "quarterly",
+    "tax_rate": 2.7
+  },
+  "AL": {
+    "direct_procurement_rule": "4.0% direct procurement tax payable within 30 days of procurement by insured under Ala. Code \u00a7 27-10-35(c).",
+    "direct_procurement_tax_rate": 4.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "Aggregated commercial premium >= $100,000 nationwide + net worth >= $20,000,000 or revenue >= $50,000,000 or 500+ employees or nonprofit/public entity budget thresholds; retains qualified risk manager.",
+    "ecp_statutory_cite": "Ala. Code \u00a7 27-10-20.1",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "amended-return",
+    "return_premium_details": "Requires submission of an amended Form ID-15 for the applicable policy period. Credits cannot be simply netted against unrelated new filings without amended schedule reconciliation.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Alabama: 6.0% gross premium tax)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Alabama: \u00a7 27-10-35(c), 4% direct procurement tax within 30 days)",
+      "wsia_chart": "WSIA Tax Filing Chart (Alabama: ID-15 annual return due March 1; 30d policy filing)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "AL",
+    "state_name": "Alabama",
+    "statutory_cite": "Ala. Code \u00a7 27-10-31, \u00a7 27-10-35; Ala. Admin. Code r. 482-1-085; 15 U.S.C. \u00a7 8201 et seq.",
+    "tax_due_dates": [
+      "March 1 annually (prepayment quarterly if tax > $1,000)"
+    ],
+    "tax_periodicity": "annual",
+    "tax_rate": 6.0
+  },
+  "AR": {
+    "direct_procurement_rule": "4.0% direct procurement tax payable to Arkansas Insurance Commissioner within 60 days of quarter end under Ark. Code Ann. \u00a7 23-65-313.",
+    "direct_procurement_tax_rate": 4.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "Exempt commercial purchaser conforming to NRRA Section 527 thresholds.",
+    "ecp_statutory_cite": "Ark. Code Ann. \u00a7 23-65-305",
+    "filing_deadline_days": 60,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Return premium reduces net quarterly taxable premium; negative balance carries forward or is refundable upon written application.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Arkansas: 4.0% tax rate)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Arkansas: \u00a7 23-65-313, 4.0% direct procurement tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Arkansas: Quarterly filings, 60 days from quarter close)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "AR",
+    "state_name": "Arkansas",
+    "statutory_cite": "Ark. Code Ann. \u00a7 23-65-315, \u00a7 23-65-313; Ark. Admin. Code 054.00.24",
+    "tax_due_dates": [
+      "Quarterly: 60 days following end of quarter (March 1, June 1, Sept 1, Dec 1)"
+    ],
+    "tax_periodicity": "quarterly",
+    "tax_rate": 4.0
+  },
+  "AZ": {
+    "direct_procurement_rule": "3.0% direct procurement tax due March 1 annually for policies procured during preceding calendar year under A.R.S. \u00a7 20-422.",
+    "direct_procurement_tax_rate": 3.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "Standard NRRA definition under 15 U.S.C. \u00a7 8206; exempt from diligent search requirement upon affidavit.",
+    "ecp_statutory_cite": "A.R.S. \u00a7 20-401.07",
+    "filing_deadline_days": 60,
+    "return_premium_credit_mechanics": "credit-only",
+    "return_premium_details": "Return premium credits can be applied against subsequent filings or annual return; stamping fee of 0.20% is credited proportionally on endorsed cancellations.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Arizona: 3.0% tax, SLA stamping fee)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Arizona: \u00a7 20-422, 3.0% direct procurement tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Arizona: 3.0% tax, 0.20% stamping fee, annual tax due March 1, 60-day policy filing)"
+    },
+    "stamping_fee_pct": 0.2,
+    "stamping_office": true,
+    "stamping_office_name": "Surplus Line Association of Arizona",
+    "state_code": "AZ",
+    "state_name": "Arizona",
+    "statutory_cite": "A.R.S. \u00a7 20-416 (Tax), \u00a7 20-411 (Stamping fee), \u00a7 20-422; AAC R20-6-204",
+    "tax_due_dates": [
+      "March 1 annually (prepayment required if previous year tax >= $50,000)"
+    ],
+    "tax_periodicity": "annual",
+    "tax_rate": 3.0
+  },
+  "CA": {
+    "direct_procurement_rule": "3.0% direct procurement tax payable to the California Department of Insurance by March 1 under Cal. Ins. Code \u00a7 1765.2.",
+    "direct_procurement_tax_rate": 3.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "Commercial insured purchasing surplus lines with >= $100k nationwide property/casualty premium and meeting standard net worth ($20M) or revenue ($50M) metrics.",
+    "ecp_statutory_cite": "Cal. Ins. Code \u00a7 1765.1",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "credit-only",
+    "return_premium_details": "Return premiums offset against annual tax calculation on California CDI Form TAX-1; SLA stamping fee of 0.25% adjusts on SLA California portal via negative filing batch; credits carry forward.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (California: 3.0% gross premium tax)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (California: \u00a7 1765.2, 3.0% direct placement tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (California: SLA of CA 0.25% stamping fee, 30d policy filing deadline, annual tax March 1)"
+    },
+    "stamping_fee_pct": 0.25,
+    "stamping_office": true,
+    "stamping_office_name": "Surplus Line Association of California",
+    "state_code": "CA",
+    "state_name": "California",
+    "statutory_cite": "Cal. Ins. Code \u00a7 1775.5, \u00a7 1765.1, \u00a7 1763, \u00a7 1765.2; 10 CCR \u00a7 2174 et seq.",
+    "tax_due_dates": [
+      "March 1 annually; monthly installment prepayments if previous year tax >= $20,000"
+    ],
+    "tax_periodicity": "annual",
+    "tax_rate": 3.0
+  },
+  "CO": {
+    "direct_procurement_rule": "3.0% direct procurement tax payable to Division of Insurance by March 1 annually under C.R.S. \u00a7 10-5-111.5.",
+    "direct_procurement_tax_rate": 3.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "Exempt commercial purchaser conforming to NRRA criteria.",
+    "ecp_statutory_cite": "C.R.S. \u00a7 10-5-101.5",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Return premiums credited against annual report or refund requested with Colorado Division of Insurance.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Colorado: 3.0% premium tax)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Colorado: \u00a7 10-5-111.5, 3.0% direct tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Colorado: Annual return March 1, monthly transaction logging)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "CO",
+    "state_name": "Colorado",
+    "statutory_cite": "C.R.S. \u00a7 10-5-111, \u00a7 10-5-111.5, \u00a7 10-5-108; 3 CCR 702-2-4-1",
+    "tax_due_dates": [
+      "March 1 annually (monthly report due 15th of each month)"
+    ],
+    "tax_periodicity": "annual",
+    "tax_rate": 3.0
+  },
+  "CT": {
+    "direct_procurement_rule": "4.0% direct procurement tax payable to DRS within 45 days after end of quarter under Conn. Gen. Stat. \u00a7 38a-743(c).",
+    "direct_procurement_tax_rate": 4.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "NRRA Section 527 qualified exempt commercial purchaser.",
+    "ecp_statutory_cite": "Conn. Gen. Stat. \u00a7 38a-741",
+    "filing_deadline_days": 45,
+    "return_premium_credit_mechanics": "credit-only",
+    "return_premium_details": "Offsets against current quarterly return; credit carryover allowed on subsequent returns.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Connecticut: 4.0% surplus lines tax)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Connecticut: \u00a7 38a-743(c), 4.0% direct procurement tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Connecticut: Quarterly filings to DRS via myconneCT)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "CT",
+    "state_name": "Connecticut",
+    "statutory_cite": "Conn. Gen. Stat. \u00a7 38a-743, \u00a7 38a-741, \u00a7 12-211",
+    "tax_due_dates": [
+      "Quarterly: May 15, Aug 15, Nov 15, Feb 15 (Department of Revenue Services Form 115RRN)"
+    ],
+    "tax_periodicity": "quarterly",
+    "tax_rate": 4.0
+  },
+  "DC": {
+    "direct_procurement_rule": "2.0% direct procurement tax payable to DC DISB by March 1 annually under D.C. Code \u00a7 31-2502.40(b).",
+    "direct_procurement_tax_rate": 2.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "Standard NRRA definition under 15 U.S.C. \u00a7 8206.",
+    "ecp_statutory_cite": "D.C. Code \u00a7 31-2502.40(a)",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Credited against annual taxable premium; cash refund upon written request if net negative.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (District of Columbia: 2.0% premium tax)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (DC: \u00a7 31-2502.40(b), 2.0% direct tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (DC: March 1 annual return to DISB)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "DC",
+    "state_name": "District of Columbia",
+    "statutory_cite": "D.C. Code \u00a7 31-2502.40; 26-A DCMR \u00a7 800",
+    "tax_due_dates": [
+      "March 1 annually (semi-annual affidavits)"
+    ],
+    "tax_periodicity": "annual",
+    "tax_rate": 2.0
+  },
+  "DE": {
+    "direct_procurement_rule": "3.0% direct procurement tax payable to Insurance Commissioner within 30 days of calendar quarter end under 18 Del. C. \u00a7 1926.",
+    "direct_procurement_tax_rate": 3.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "Exempt commercial purchaser conforming to federal NRRA definition.",
+    "ecp_statutory_cite": "18 Del. C. \u00a7 1904",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Net against gross quarterly premium; net negative balance can be carried forward or refunded.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Delaware: 3.0% premium tax)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Delaware: 18 Del. C. \u00a7 1926, 3.0% direct tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Delaware: Quarterly filings via OPTins)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "DE",
+    "state_name": "Delaware",
+    "statutory_cite": "18 Del. C. \u00a7 1925, \u00a7 1926, \u00a7 1904; Del. Admin. Code 18-1901",
+    "tax_due_dates": [
+      "Quarterly: within 30 days after end of calendar quarter"
+    ],
+    "tax_periodicity": "quarterly",
+    "tax_rate": 3.0
+  },
+  "FL": {
+    "direct_procurement_rule": "4.94% tax plus 0.06% service fee payable to Florida Department of Revenue within 30 days under Fla. Stat. \u00a7 626.938.",
+    "direct_procurement_tax_rate": 4.94,
+    "ecp_accepted": true,
+    "ecp_criteria": "Exempt commercial purchaser conforming to NRRA: $100k premium, qualified risk manager, financial thresholds.",
+    "ecp_statutory_cite": "Fla. Stat. \u00a7 626.914(4)",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "credit-only",
+    "return_premium_details": "Return premium endorsements entered through FSLSO SLIP portal; tax credit of 4.94% + stamping fee 0.06% auto-applied to quarterly invoice; credits do not expire but must be claimed via SLIP.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Florida: 4.94% tax rate)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Florida: \u00a7 626.938, 5.0% total direct procurement assessment)",
+      "wsia_chart": "WSIA Tax Filing Chart (Florida: FSLSO 0.06% stamping fee, quarterly filings due 45d post-quarter)"
+    },
+    "stamping_fee_pct": 0.06,
+    "stamping_office": true,
+    "stamping_office_name": "Florida Surplus Lines Service Office (FSLSO)",
+    "state_code": "FL",
+    "state_name": "Florida",
+    "statutory_cite": "Fla. Stat. \u00a7 626.932 (Tax), \u00a7 626.9325 (FSLSO Fee), \u00a7 626.938; F.A.C. 69O-162.001 et seq.",
+    "tax_due_dates": [
+      "Quarterly: 45 days after end of calendar quarter (May 15, Aug 15, Nov 15, Feb 15)"
+    ],
+    "tax_periodicity": "quarterly",
+    "tax_rate": 4.94
+  },
+  "GA": {
+    "direct_procurement_rule": "4.0% direct procurement tax payable to Georgia Insurance Commissioner within 30 days under O.C.G.A. \u00a7 33-5-32.",
+    "direct_procurement_tax_rate": 4.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "Commercial insured purchasing surplus lines with >= $100k nationwide premium and qualifying risk manager under NRRA.",
+    "ecp_statutory_cite": "O.C.G.A. \u00a7 33-5-25",
+    "filing_deadline_days": 60,
+    "return_premium_credit_mechanics": "credit-only",
+    "return_premium_details": "CRITICAL AUDIT RULE: Georgia does NOT issue cash refunds for return premiums; credits can only be applied against future surplus lines filings with the Georgia OCI. Unclaimed return premiums create permanent broker loss if not actively swept.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Georgia: 4.0% premium tax)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Georgia: \u00a7 33-5-32, 4.0% direct placement tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Georgia: Quarterly filings via OPTins, credit-only mechanic)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "GA",
+    "state_name": "Georgia",
+    "statutory_cite": "O.C.G.A. \u00a7 33-5-31, \u00a7 33-5-32, \u00a7 33-5-25; Ga. Comp. R. & Regs. 120-2-24",
+    "tax_due_dates": [
+      "Quarterly: April 15, July 15, October 15, January 15 (Annual reconciliation March 1)"
+    ],
+    "tax_periodicity": "quarterly",
+    "tax_rate": 4.0
+  },
+  "HI": {
+    "direct_procurement_rule": "4.68% direct procurement tax payable to Insurance Division semi-annually under Haw. Rev. Stat. \u00a7 431:8-316.",
+    "direct_procurement_tax_rate": 4.68,
+    "ecp_accepted": true,
+    "ecp_criteria": "Exempt commercial purchaser conforming to NRRA Section 527.",
+    "ecp_statutory_cite": "Haw. Rev. Stat. \u00a7 431:8-205",
+    "filing_deadline_days": 45,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Offsets against semi-annual return premium totals; excess refundable upon formal claim to Insurance Division.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Hawaii: 4.68% premium tax)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Hawaii: \u00a7 431:8-316, 4.68% direct tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Hawaii: Semi-annual filings Sept 15 and March 15)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "HI",
+    "state_name": "Hawaii",
+    "statutory_cite": "Haw. Rev. Stat. \u00a7 431:8-315, \u00a7 431:8-316, \u00a7 431:8-205; HAR \u00a7 16-17",
+    "tax_due_dates": [
+      "Semi-annually: Sept 15 (for Jan-June) and March 15 (for July-Dec)"
+    ],
+    "tax_periodicity": "semi-annual",
+    "tax_rate": 4.68
+  },
+  "IA": {
+    "direct_procurement_rule": "1.0% direct procurement tax payable to Iowa Insurance Division by March 1 under Iowa Code \u00a7 515I.11.",
+    "direct_procurement_tax_rate": 1.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "NRRA commercial purchaser standards.",
+    "ecp_statutory_cite": "Iowa Code \u00a7 515I.2",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Credited against annual return; net credit refundable by Iowa Insurance Division.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Iowa: 0.925% statutory rate)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Iowa: \u00a7 515I.11, 1.0% direct procurement rate)",
+      "wsia_chart": "WSIA Tax Filing Chart (Iowa: 0.925% annual return March 1)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "IA",
+    "state_name": "Iowa",
+    "statutory_cite": "Iowa Code \u00a7 515I.10, \u00a7 515I.11; 191 IAC 21.1 et seq.",
+    "tax_due_dates": [
+      "March 1 annually (lowest surplus lines tax rate in the United States)"
+    ],
+    "tax_periodicity": "annual",
+    "tax_rate": 0.925
+  },
+  "ID": {
+    "direct_procurement_rule": "1.5% direct procurement tax payable to Director of Insurance within 30 days under Idaho Code \u00a7 41-1230.",
+    "direct_procurement_tax_rate": 1.5,
+    "ecp_accepted": true,
+    "ecp_criteria": "NRRA commercial purchaser exemption standards.",
+    "ecp_statutory_cite": "Idaho Code \u00a7 41-1214(3)",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Return premiums offset against annual tax report with DOI; stamping fee refunded via SLA of Idaho credit memos.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Idaho: 1.5% tax rate)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Idaho: \u00a7 41-1230, 1.5% direct procurement tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Idaho: 0.50% stamping fee, annual tax due March 1, 30d policy submission)"
+    },
+    "stamping_fee_pct": 0.5,
+    "stamping_office": true,
+    "stamping_office_name": "Surplus Line Association of Idaho",
+    "state_code": "ID",
+    "state_name": "Idaho",
+    "statutory_cite": "Idaho Code \u00a7 41-1229 (Tax), \u00a7 41-1233 (Stamping Fee), \u00a7 41-1230; IDAPA 18.06.06",
+    "tax_due_dates": [
+      "March 1 annually (monthly report due 30 days after month end)"
+    ],
+    "tax_periodicity": "annual",
+    "tax_rate": 1.5
+  },
+  "IL": {
+    "direct_procurement_rule": "3.5% tax + 0.5% fire marshal tax (4.0% total on property) payable within 30 days under 215 ILCS 5/445.1.",
+    "direct_procurement_tax_rate": 4.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "Exempt commercial purchaser conforming to 15 U.S.C. \u00a7 8206; affidavit filed with SLAI.",
+    "ecp_statutory_cite": "215 ILCS 5/445",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "credit-only",
+    "return_premium_details": "Broker files endorsement with SLAI; tax credit calculated on semi-annual return; plus 0.5% Fire Marshal Tax adjustment where applicable; credits offset future semi-annual periods.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Illinois: 3.5% surplus lines tax + 0.5% fire marshal tax)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Illinois: 215 ILCS 5/445.1, 4.0% direct procurement assessment)",
+      "wsia_chart": "WSIA Tax Filing Chart (Illinois: SLAI 0.04% stamping fee, semi-annual filings Feb 1 / Aug 1)"
+    },
+    "stamping_fee_pct": 0.04,
+    "stamping_office": true,
+    "stamping_office_name": "Surplus Line Association of Illinois (SLAI)",
+    "state_code": "IL",
+    "state_name": "Illinois",
+    "statutory_cite": "215 ILCS 5/445, 5/445.1; 50 Ill. Adm. Code 2701; SLAI Plan of Operation",
+    "tax_due_dates": [
+      "Semi-annually: Feb 1 (for July-Dec) and Aug 1 (for Jan-June); Fire Marshal Tax 0.5% due March 1"
+    ],
+    "tax_periodicity": "semi-annual",
+    "tax_rate": 3.5
+  },
+  "IN": {
+    "direct_procurement_rule": "2.5% direct procurement tax payable to Indiana DOI semi-annually under Ind. Code \u00a7 27-1-15.8-4(e).",
+    "direct_procurement_tax_rate": 2.5,
+    "ecp_accepted": true,
+    "ecp_criteria": "Exempt commercial purchaser meeting NRRA criteria.",
+    "ecp_statutory_cite": "Ind. Code \u00a7 27-1-15.8-3",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Offset against gross semi-annual premium; net credit refundable upon filing verified claim.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Indiana: 2.5% premium tax)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Indiana: \u00a7 27-1-15.8-4(e), 2.5% direct placement tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Indiana: Semi-annual filings via OPTins)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "IN",
+    "state_name": "Indiana",
+    "statutory_cite": "Ind. Code \u00a7 27-1-15.8-4, \u00a7 27-1-15.8-3; 760 IAC 1-41",
+    "tax_due_dates": [
+      "Semi-annually: Aug 1 (for Jan-June) and Feb 1 (for July-Dec) via OPTins"
+    ],
+    "tax_periodicity": "semi-annual",
+    "tax_rate": 2.5
+  },
+  "KS": {
+    "direct_procurement_rule": "6.0% direct procurement tax payable within 30 days under K.S.A. \u00a7 40-246e.",
+    "direct_procurement_tax_rate": 6.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "Exempt commercial purchaser conforming to NRRA.",
+    "ecp_statutory_cite": "K.S.A. \u00a7 40-246b",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Offset against quarterly premium; negative balances carried forward or refunded.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Kansas: 6.0% premium tax)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Kansas: \u00a7 40-246e, 6.0% direct tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Kansas: 6.0% quarterly filings via OPTins)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "KS",
+    "state_name": "Kansas",
+    "statutory_cite": "K.S.A. \u00a7 40-246c, \u00a7 40-246e, \u00a7 40-246b; K.A.R. 40-8-7",
+    "tax_due_dates": [
+      "Quarterly: within 30 days after end of quarter (Annual reconciliation March 1)"
+    ],
+    "tax_periodicity": "quarterly",
+    "tax_rate": 6.0
+  },
+  "KY": {
+    "direct_procurement_rule": "3.0% direct procurement tax payable within 30 days under KRS \u00a7 304.10-170.",
+    "direct_procurement_tax_rate": 3.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "NRRA commercial purchaser criteria.",
+    "ecp_statutory_cite": "KRS \u00a7 304.10-040",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Return premium reduces quarterly gross premium; municipal tax adjustments must be segregated by local taxing district code.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Kentucky: 3.0% state tax + local municipal taxes)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Kentucky: \u00a7 304.10-170, 3.0% direct procurement tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Kentucky: Quarterly filings via eServices)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "KY",
+    "state_name": "Kentucky",
+    "statutory_cite": "KRS \u00a7 304.10-180, \u00a7 304.10-170, \u00a7 91A.080 (Municipal tax); 806 KAR 10:050",
+    "tax_due_dates": [
+      "Quarterly: 30 days after end of quarter; municipal taxes also apply where applicable"
+    ],
+    "tax_periodicity": "quarterly",
+    "tax_rate": 3.0
+  },
+  "LA": {
+    "direct_procurement_rule": "4.85% direct procurement tax payable to Louisiana Department of Insurance within 30 days under La. R.S. \u00a7 22:440.",
+    "direct_procurement_tax_rate": 4.85,
+    "ecp_accepted": true,
+    "ecp_criteria": "Exempt commercial purchaser conforming to NRRA Section 527.",
+    "ecp_statutory_cite": "La. R.S. \u00a7 22:432",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Offset against quarterly taxable base; carry forward allowed.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Louisiana: 4.85% premium tax rate)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Louisiana: \u00a7 22:440, 4.85% direct placement tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Louisiana: Quarterly filings via Industry Access)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "LA",
+    "state_name": "Louisiana",
+    "statutory_cite": "La. R.S. \u00a7 22:439, \u00a7 22:440, \u00a7 22:432; LAC 37:XIII.Chapter 41",
+    "tax_due_dates": [
+      "Quarterly: 30 days after end of calendar quarter (April 30, July 30, Oct 30, Jan 30)"
+    ],
+    "tax_periodicity": "quarterly",
+    "tax_rate": 4.85
+  },
+  "MA": {
+    "direct_procurement_rule": "4.0% direct procurement tax payable to Commissioner of Revenue by March 1 under Mass. Gen. Laws ch. 175 \u00a7 168A.",
+    "direct_procurement_tax_rate": 4.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "NRRA commercial purchaser criteria.",
+    "ecp_statutory_cite": "Mass. Gen. Laws ch. 175 \u00a7 168",
+    "filing_deadline_days": 20,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Offset against annual return; refundable or carried forward.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Massachusetts: 4.0% tax rate)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Massachusetts: ch. 175 \u00a7 168A, 4.0% direct tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Massachusetts: Form 168 annual return due March 1, 20d policy filing)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "MA",
+    "state_name": "Massachusetts",
+    "statutory_cite": "Mass. Gen. Laws ch. 175 \u00a7 168, \u00a7 168A, ch. 63 \u00a7 29B; 211 CMR 115.00",
+    "tax_due_dates": [
+      "March 1 annually (Form 168 via MassTaxConnect)"
+    ],
+    "tax_periodicity": "annual",
+    "tax_rate": 4.0
+  },
+  "MD": {
+    "direct_procurement_rule": "3.0% direct procurement tax payable within 60 days under Md. Code Ann., Ins. \u00a7 3-325.",
+    "direct_procurement_tax_rate": 3.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "Exempt commercial purchaser conforming to NRRA.",
+    "ecp_statutory_cite": "Md. Code Ann., Ins. \u00a7 3-306.1",
+    "filing_deadline_days": 45,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Offsets semi-annual premium; refundable upon semi-annual reconciliation.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Maryland: 3.0% premium tax)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Maryland: \u00a7 3-325, 3.0% direct procurement tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Maryland: Semi-annual returns due March 15 & Sept 15)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "MD",
+    "state_name": "Maryland",
+    "statutory_cite": "Md. Code Ann., Ins. \u00a7 3-324, \u00a7 3-325, \u00a7 3-306.1; COMAR 31.03.06",
+    "tax_due_dates": [
+      "Semi-annually: March 15 and September 15 via Maryland Insurance Administration"
+    ],
+    "tax_periodicity": "semi-annual",
+    "tax_rate": 3.0
+  },
+  "ME": {
+    "direct_procurement_rule": "3.0% direct procurement tax payable to Maine Revenue Services under 24-A M.R.S. \u00a7 2016-A.",
+    "direct_procurement_tax_rate": 3.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "NRRA commercial purchaser criteria.",
+    "ecp_statutory_cite": "24-A M.R.S. \u00a7 2004",
+    "filing_deadline_days": 45,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Offset against subsequent policy filings or annual return.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Maine: 3.0% premium tax)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Maine: \u00a7 2016-A, 3.0% direct placement tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Maine: Monthly policy logging, quarterly/annual tax)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "ME",
+    "state_name": "Maine",
+    "statutory_cite": "24-A M.R.S. \u00a7 2016, \u00a7 2016-A, \u00a7 2004; Me. Bureau of Ins. Rule Ch. 630",
+    "tax_due_dates": [
+      "Monthly filing of policies within 45 days; tax paid annually or semi-annually"
+    ],
+    "tax_periodicity": "monthly",
+    "tax_rate": 3.0
+  },
+  "MI": {
+    "direct_procurement_rule": "2.0% tax + 0.5% fee payable within 30 days under MCL \u00a7 500.1912.",
+    "direct_procurement_tax_rate": 2.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "NRRA commercial purchaser criteria.",
+    "ecp_statutory_cite": "MCL \u00a7 500.1904",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Adjusts semi-annual taxable base; net negative eligible for refund.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Michigan: 2.0% tax + 0.5% regulatory fee = 2.5%)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Michigan: \u00a7 500.1912, 2.5% direct procurement assessment)",
+      "wsia_chart": "WSIA Tax Filing Chart (Michigan: Semi-annual filings via DIFS FIS 0017)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "MI",
+    "state_name": "Michigan",
+    "statutory_cite": "MCL \u00a7 500.1911, \u00a7 500.1912, \u00a7 500.1904, \u00a7 500.1905; Mich. Admin. Code R 500.1251",
+    "tax_due_dates": [
+      "Semi-annually: July 31 and January 31 (plus 0.5% regulatory fee = 2.5% total assessment)"
+    ],
+    "tax_periodicity": "semi-annual",
+    "tax_rate": 2.0
+  },
+  "MN": {
+    "direct_procurement_rule": "3.0% direct procurement tax payable to Commissioner of Revenue by March 1 under Minn. Stat. \u00a7 297I.05 subd. 8.",
+    "direct_procurement_tax_rate": 3.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "Exempt commercial purchaser conforming to NRRA.",
+    "ecp_statutory_cite": "Minn. Stat. \u00a7 60A.196",
+    "filing_deadline_days": 60,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Reported through SLAM portal; tax adjusted on annual return with MN Dept of Revenue; stamping fee adjusted proportionally.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Minnesota: 3.0% premium tax)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Minnesota: \u00a7 297I.05 subd. 8, 3.0% direct tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Minnesota: SLAM 0.04% stamping fee, annual return March 1, 60d filing)"
+    },
+    "stamping_fee_pct": 0.04,
+    "stamping_office": true,
+    "stamping_office_name": "Surplus Lines Association of Minnesota (SLAM)",
+    "state_code": "MN",
+    "state_name": "Minnesota",
+    "statutory_cite": "Minn. Stat. \u00a7 297I.05, \u00a7 60A.208 (Stamping fee), \u00a7 60A.198; Minn. R. 2780.0100",
+    "tax_due_dates": [
+      "March 1 annually (prepayment quarterly if tax > $10,000)"
+    ],
+    "tax_periodicity": "annual",
+    "tax_rate": 3.0
+  },
+  "MO": {
+    "direct_procurement_rule": "5.0% direct procurement tax payable to Director of Revenue by March 1 under Mo. Rev. Stat. \u00a7 384.051.",
+    "direct_procurement_tax_rate": 5.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "Exempt commercial purchaser conforming to NRRA.",
+    "ecp_statutory_cite": "Mo. Rev. Stat. \u00a7 384.015",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Offset against gross taxable premium on annual Form 384; refund granted if net annual negative.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Missouri: 5.0% tax rate)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Missouri: \u00a7 384.051, 5.0% direct procurement tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Missouri: Annual Form 384 due March 1)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "MO",
+    "state_name": "Missouri",
+    "statutory_cite": "Mo. Rev. Stat. \u00a7 384.059, \u00a7 384.051, \u00a7 384.025; 20 CSR 500-6.700",
+    "tax_due_dates": [
+      "March 1 annually (Form 384 via DIFP portal)"
+    ],
+    "tax_periodicity": "annual",
+    "tax_rate": 5.0
+  },
+  "MS": {
+    "direct_procurement_rule": "4.0% direct procurement tax payable to Insurance Commissioner within 30 days under Miss. Code Ann. \u00a7 83-21-17.",
+    "direct_procurement_tax_rate": 4.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "NRRA commercial purchaser standards.",
+    "ecp_statutory_cite": "Miss. Code Ann. \u00a7 83-21-18",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "credit-only",
+    "return_premium_details": "Processed via MSLA clearinghouse; credits apply against future quarterly broker liabilities.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Mississippi: 4.0% premium tax)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Mississippi: \u00a7 83-21-17, 4.0% direct tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Mississippi: MSLA 0.25% stamping fee, quarterly filings via MSLA)"
+    },
+    "stamping_fee_pct": 0.25,
+    "stamping_office": true,
+    "stamping_office_name": "Mississippi Surplus Lines Association (MSLA)",
+    "state_code": "MS",
+    "state_name": "Mississippi",
+    "statutory_cite": "Miss. Code Ann. \u00a7 83-21-25 (Tax), \u00a7 83-21-21 (Stamping fee), \u00a7 83-21-17; 19 Miss. Admin. Code Pt. 1, Ch. 27",
+    "tax_due_dates": [
+      "Quarterly: 30 days after end of quarter (plus 3.0% MWUA windstorm surcharge on coast properties)"
+    ],
+    "tax_periodicity": "quarterly",
+    "tax_rate": 4.0
+  },
+  "MT": {
+    "direct_procurement_rule": "2.75% direct procurement tax payable to CSI by March 1 under Mont. Code Ann. \u00a7 33-2-312.",
+    "direct_procurement_tax_rate": 2.75,
+    "ecp_accepted": true,
+    "ecp_criteria": "Exempt commercial purchaser conforming to NRRA.",
+    "ecp_statutory_cite": "Mont. Code Ann. \u00a7 33-2-301",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Credited on annual return; refundable upon verified reconciliation.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Montana: 2.75% tax rate)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Montana: \u00a7 33-2-312, 2.75% direct placement tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Montana: Annual tax March 1, monthly report logging)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "MT",
+    "state_name": "Montana",
+    "statutory_cite": "Mont. Code Ann. \u00a7 33-2-311, \u00a7 33-2-312; ARM 6.6.2001",
+    "tax_due_dates": [
+      "March 1 annually (monthly transaction reporting required)"
+    ],
+    "tax_periodicity": "annual",
+    "tax_rate": 2.75
+  },
+  "NC": {
+    "direct_procurement_rule": "5.0% direct procurement tax payable to NC Department of Revenue within 30 days under N.C. Gen. Stat. \u00a7 58-21-86.",
+    "direct_procurement_tax_rate": 5.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "NRRA commercial purchaser standards.",
+    "ecp_statutory_cite": "N.C. Gen. Stat. \u00a7 58-21-10",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "credit-only",
+    "return_premium_details": "Submitted via NCSLA SLIP system; stamping fee (0.40%) and 5.0% tax credited against subsequent quarterly invoicing; no direct cash disbursement without formal DOR audit petition.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (North Carolina: 5.0% premium tax)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (North Carolina: \u00a7 58-21-86, 5.0% direct procurement tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (North Carolina: NCSLA 0.40% stamping fee, quarterly filings via SLIP)"
+    },
+    "stamping_fee_pct": 0.4,
+    "stamping_office": true,
+    "stamping_office_name": "North Carolina Surplus Lines Association (NCSLA)",
+    "state_code": "NC",
+    "state_name": "North Carolina",
+    "statutory_cite": "N.C. Gen. Stat. \u00a7 58-21-85 (Tax), \u00a7 58-21-40 (NCSLA fee), \u00a7 58-21-86; 11 NCAC 19.0101 et seq.",
+    "tax_due_dates": [
+      "Quarterly: 30 days after end of calendar quarter (Jan 30, April 30, July 30, Oct 30)"
+    ],
+    "tax_periodicity": "quarterly",
+    "tax_rate": 5.0
+  },
+  "ND": {
+    "direct_procurement_rule": "1.75% direct procurement tax payable by March 1 under N.D. Cent. Code \u00a7 26.1-44-03.2.",
+    "direct_procurement_tax_rate": 1.75,
+    "ecp_accepted": true,
+    "ecp_criteria": "NRRA commercial purchaser standards.",
+    "ecp_statutory_cite": "N.D. Cent. Code \u00a7 26.1-44-01.1",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Offset against annual return; net credit refundable.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (North Dakota: 1.75% tax rate)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (North Dakota: \u00a7 26.1-44-03.2, 1.75% direct tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (North Dakota: Annual return March 1 via OPTins)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "ND",
+    "state_name": "North Dakota",
+    "statutory_cite": "N.D. Cent. Code \u00a7 26.1-44-03.1, \u00a7 26.1-44-03.2; N.D. Admin. Code 45-09-01",
+    "tax_due_dates": [
+      "March 1 annually (semi-annual policy listings)"
+    ],
+    "tax_periodicity": "annual",
+    "tax_rate": 1.75
+  },
+  "NE": {
+    "direct_procurement_rule": "3.0% direct procurement tax payable by March 1 under Neb. Rev. Stat. \u00a7 44-5507.",
+    "direct_procurement_tax_rate": 3.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "NRRA commercial purchaser standards.",
+    "ecp_statutory_cite": "Neb. Rev. Stat. \u00a7 44-5502",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Offset against annual return; net credit refundable.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Nebraska: 3.0% tax rate)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Nebraska: \u00a7 44-5507, 3.0% direct placement tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Nebraska: Annual return March 1, quarterly installments)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "NE",
+    "state_name": "Nebraska",
+    "statutory_cite": "Neb. Rev. Stat. \u00a7 44-5506, \u00a7 44-5507, \u00a7 44-5504; 210 NAC 38",
+    "tax_due_dates": [
+      "March 1 annually (prepayment quarterly if tax > $500)"
+    ],
+    "tax_periodicity": "annual",
+    "tax_rate": 3.0
+  },
+  "NH": {
+    "direct_procurement_rule": "2.0% direct procurement tax payable to Insurance Department within 30 days under N.H. Rev. Stat. Ann. \u00a7 405:24.",
+    "direct_procurement_tax_rate": 2.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "Exempt commercial purchaser conforming to NRRA.",
+    "ecp_statutory_cite": "N.H. Rev. Stat. Ann. \u00a7 405:24",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Offset against quarterly taxable base; excess credit refundable upon annual return.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (New Hampshire: 2.0% premium tax)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (New Hampshire: \u00a7 405:24, 2.0% direct placement tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (New Hampshire: Quarterly filings via OPTins)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "NH",
+    "state_name": "New Hampshire",
+    "statutory_cite": "N.H. Rev. Stat. Ann. \u00a7 405:29, \u00a7 405:24; N.H. Code Admin. R. Ins 1400",
+    "tax_due_dates": [
+      "Quarterly: within 30 days after end of quarter"
+    ],
+    "tax_periodicity": "quarterly",
+    "tax_rate": 2.0
+  },
+  "NJ": {
+    "direct_procurement_rule": "5.0% direct procurement tax payable to DOBI within 30 days under N.J. Stat. Ann. \u00a7 17:22-6.64.",
+    "direct_procurement_tax_rate": 5.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "Exempt commercial purchaser conforming to NRRA.",
+    "ecp_statutory_cite": "N.J. Stat. Ann. \u00a7 17:22-6.42",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "credit-only",
+    "return_premium_details": "Offsets quarterly gross premium on NJ DOBI SL-3 returns; credit balances carried forward to subsequent quarters.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (New Jersey: 5.0% premium tax rate)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (New Jersey: \u00a7 17:22-6.64, 5.0% direct tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (New Jersey: Quarterly filings via DOBI portal)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "NJ",
+    "state_name": "New Jersey",
+    "statutory_cite": "N.J. Stat. Ann. \u00a7 17:22-6.59, \u00a7 17:22-6.64, \u00a7 17:22-6.42; N.J.A.C. 11:1-33",
+    "tax_due_dates": [
+      "Quarterly: May 15, Aug 15, Nov 15, Feb 15 (Annual reconciliation Feb 15)"
+    ],
+    "tax_periodicity": "quarterly",
+    "tax_rate": 5.0
+  },
+  "NM": {
+    "direct_procurement_rule": "3.003% direct procurement tax payable within 30 days under N.M. Stat. Ann. \u00a7 59A-6-3.",
+    "direct_procurement_tax_rate": 3.003,
+    "ecp_accepted": true,
+    "ecp_criteria": "NRRA commercial purchaser standards.",
+    "ecp_statutory_cite": "N.M. Stat. Ann. \u00a7 59A-14-2",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Offsets quarterly taxable premium; refundable upon annual reconciliation with OSI.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (New Mexico: 3.003% premium tax)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (New Mexico: \u00a7 59A-6-3, 3.003% direct procurement tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (New Mexico: Quarterly filings via OPTins)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "NM",
+    "state_name": "New Mexico",
+    "statutory_cite": "N.M. Stat. Ann. \u00a7 59A-6-2, \u00a7 59A-6-3, \u00a7 59A-14-2; NMAC 13.19.2",
+    "tax_due_dates": [
+      "Quarterly: within 30 days after end of quarter (Annual return March 1)"
+    ],
+    "tax_periodicity": "quarterly",
+    "tax_rate": 3.003
+  },
+  "NV": {
+    "direct_procurement_rule": "3.5% direct procurement tax payable to Division of Insurance within 30 days under Nev. Rev. Stat. \u00a7 685A.190.",
+    "direct_procurement_tax_rate": 3.5,
+    "ecp_accepted": true,
+    "ecp_criteria": "NRRA commercial purchaser criteria.",
+    "ecp_statutory_cite": "Nev. Rev. Stat. \u00a7 685A.030",
+    "filing_deadline_days": 45,
+    "return_premium_credit_mechanics": "credit-only",
+    "return_premium_details": "Filed through NSLA electronic system; tax and stamping fee credits applied against next quarterly statement.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Nevada: 3.5% surplus lines tax)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Nevada: \u00a7 685A.190, 3.5% direct procurement tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Nevada: NSLA 0.40% stamping fee, quarterly filings 45d post-quarter)"
+    },
+    "stamping_fee_pct": 0.4,
+    "stamping_office": true,
+    "stamping_office_name": "Nevada Surplus Lines Association (NSLA)",
+    "state_code": "NV",
+    "state_name": "Nevada",
+    "statutory_cite": "Nev. Rev. Stat. \u00a7 685A.180 (Tax), \u00a7 685A.075 (NSLA fee), \u00a7 685A.190; NAC 685A.010 et seq.",
+    "tax_due_dates": [
+      "Quarterly: 45 days after end of calendar quarter"
+    ],
+    "tax_periodicity": "quarterly",
+    "tax_rate": 3.5
+  },
+  "NY": {
+    "direct_procurement_rule": "3.6% direct procurement tax payable to NY Dept of Taxation and Finance by March 15 under N.Y. Tax Law \u00a7 1551.",
+    "direct_procurement_tax_rate": 3.6,
+    "ecp_accepted": true,
+    "ecp_criteria": "Exempt commercial purchaser meeting NRRA standards: >= $100k premium, qualified risk manager, financial criteria; exempt from 3 diligent declinations.",
+    "ecp_statutory_cite": "N.Y. Ins. Law \u00a7 2118(b)(3)(F)",
+    "filing_deadline_days": 45,
+    "return_premium_credit_mechanics": "credit-only",
+    "return_premium_details": "Policy endorsements filed with ELANY; return premiums reflected on annual Form 11-13; ELANY stamping fee (0.15%) auto-credited against ELANY monthly/quarterly invoices; tax credits offset annual tax liability.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (New York: 3.6% tax rate)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (New York: Tax Law \u00a7 1551, 3.6% direct placement tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (New York: ELANY 0.15% stamping fee, 45d policy submission, Form 11-13 March 15)"
+    },
+    "stamping_fee_pct": 0.15,
+    "stamping_office": true,
+    "stamping_office_name": "Excess Line Association of New York (ELANY)",
+    "state_code": "NY",
+    "state_name": "New York",
+    "statutory_cite": "N.Y. Ins. Law \u00a7 2118 (ELANY), \u00a7 9102 (Tax), Tax Law \u00a7 1551; 11 NYCRR 27 (Regulation 41)",
+    "tax_due_dates": [
+      "March 15 annually (Form 11-13 to DFS; quarterly affidavit submissions to ELANY)"
+    ],
+    "tax_periodicity": "annual",
+    "tax_rate": 3.6
+  },
+  "OH": {
+    "direct_procurement_rule": "5.0% direct procurement tax payable to ODI by March 31 under Ohio Rev. Code \u00a7 3905.36(C).",
+    "direct_procurement_tax_rate": 5.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "NRRA commercial purchaser standards.",
+    "ecp_statutory_cite": "Ohio Rev. Code \u00a7 3905.331",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Credited on annual return; net negative refundable upon application.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Ohio: 5.0% premium tax rate)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Ohio: \u00a7 3905.36(C), 5.0% direct tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Ohio: Annual return March 31 via Gateway)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "OH",
+    "state_name": "Ohio",
+    "statutory_cite": "Ohio Rev. Code \u00a7 3905.36, \u00a7 3905.331; OAC 3901-1-08",
+    "tax_due_dates": [
+      "March 31 annually (electronic filing with Ohio Department of Insurance)"
+    ],
+    "tax_periodicity": "annual",
+    "tax_rate": 5.0
+  },
+  "OK": {
+    "direct_procurement_rule": "6.0% direct procurement tax payable to OID within 30 days under 36 O.S. \u00a7 1115(C).",
+    "direct_procurement_tax_rate": 6.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "Exempt commercial purchaser conforming to NRRA.",
+    "ecp_statutory_cite": "36 O.S. \u00a7 1101.1",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Net against quarterly taxable premium; negative balances carry over or are refundable upon written request.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Oklahoma: 6.0% tax rate)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Oklahoma: 36 O.S. \u00a7 1115(C), 6.0% direct placement tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Oklahoma: Quarterly filings via OPTins)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "OK",
+    "state_name": "Oklahoma",
+    "statutory_cite": "36 O.S. \u00a7 1115, \u00a7 1101.1; OAC 365:25-3-1 et seq.",
+    "tax_due_dates": [
+      "Quarterly: end of month following quarter close (April 30, July 30, Oct 30, Jan 30)"
+    ],
+    "tax_periodicity": "quarterly",
+    "tax_rate": 6.0
+  },
+  "OR": {
+    "direct_procurement_rule": "2.0% direct procurement tax payable to DCBS within 30 days under ORS \u00a7 735.470(3).",
+    "direct_procurement_tax_rate": 2.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "NRRA commercial purchaser standards.",
+    "ecp_statutory_cite": "ORS \u00a7 735.415",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "credit-only",
+    "return_premium_details": "Submitted through SLA of Oregon; tax and stamping fee credit adjusted on quarterly invoicing; credits carried forward.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Oregon: 2.0% tax rate + 0.3% fire marshal tax)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Oregon: \u00a7 735.470(3), 2.0% direct tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Oregon: SLA of OR 0.30% stamping fee, quarterly filings via eSLA)"
+    },
+    "stamping_fee_pct": 0.3,
+    "stamping_office": true,
+    "stamping_office_name": "Surplus Line Association of Oregon",
+    "state_code": "OR",
+    "state_name": "Oregon",
+    "statutory_cite": "ORS \u00a7 735.470 (Tax), \u00a7 735.435 (Stamping fee), \u00a7 476.055 (Fire Marshal Tax); OAR 836-052-0100",
+    "tax_due_dates": [
+      "Quarterly: 45 days after end of quarter (plus 0.3% Fire Marshal Tax on fire premium)"
+    ],
+    "tax_periodicity": "quarterly",
+    "tax_rate": 2.0
+  },
+  "PA": {
+    "direct_procurement_rule": "3.0% direct procurement tax payable to PA Department of Revenue by Jan 31 under 40 P.S. \u00a7 991.1622.",
+    "direct_procurement_tax_rate": 3.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "NRRA commercial purchaser standards.",
+    "ecp_statutory_cite": "40 P.S. \u00a7 991.1604",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Reported monthly to PSLA via Electronic Filing System (EFS); tax reconciled on annual Form RCT-123; PSLA stamping fee adjusted on monthly ledger.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Pennsylvania: 3.0% gross premium tax)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Pennsylvania: 40 P.S. \u00a7 991.1622, 3.0% direct tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Pennsylvania: PSLA 0.15% fee, monthly EFS logging, annual RCT-123 Jan 31)"
+    },
+    "stamping_fee_pct": 0.15,
+    "stamping_office": true,
+    "stamping_office_name": "Pennsylvania Surplus Lines Association (PSLA)",
+    "state_code": "PA",
+    "state_name": "Pennsylvania",
+    "statutory_cite": "40 P.S. \u00a7 991.1621 (Tax), \u00a7 991.1615 (PSLA fee), \u00a7 991.1622; 31 Pa. Code \u00a7 124.1",
+    "tax_due_dates": [
+      "Jan 31 annually (Form RCT-123 to PA Dept of Revenue; monthly 1620 filings to PSLA)"
+    ],
+    "tax_periodicity": "annual",
+    "tax_rate": 3.0
+  },
+  "RI": {
+    "direct_procurement_rule": "3.0% direct procurement tax payable to Tax Administrator by April 1 under R.I. Gen. Laws \u00a7 27-3-38.1.",
+    "direct_procurement_tax_rate": 3.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "NRRA commercial purchaser standards.",
+    "ecp_statutory_cite": "R.I. Gen. Laws \u00a7 27-3-38",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Credited on annual return; net credit refundable.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Rhode Island: 3.0% premium tax)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Rhode Island: \u00a7 27-3-38.1, 3.0% direct tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Rhode Island: Annual return April 1 via Division of Taxation)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "RI",
+    "state_name": "Rhode Island",
+    "statutory_cite": "R.I. Gen. Laws \u00a7 27-3-38, \u00a7 27-3-38.1; 230-RICR-20-45-1",
+    "tax_due_dates": [
+      "April 1 annually (Form T-71A via Division of Taxation)"
+    ],
+    "tax_periodicity": "annual",
+    "tax_rate": 3.0
+  },
+  "SC": {
+    "direct_procurement_rule": "6.0% direct procurement tax payable to SCDOI within 30 days under S.C. Code Ann. \u00a7 38-45-90.",
+    "direct_procurement_tax_rate": 6.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "NRRA commercial purchaser standards.",
+    "ecp_statutory_cite": "S.C. Code Ann. \u00a7 38-45-20",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "negative-endorsement",
+    "return_premium_details": "CRITICAL MECHANIC: Requires entry of negative endorsement into subsequent quarterly summary schedule; fails to refund if not captured as negative transaction in municipal breakdown.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (South Carolina: 6.0% total tax rate)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (South Carolina: \u00a7 38-45-90, 6.0% direct placement tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (South Carolina: Quarterly returns, municipal negative endorsement rule)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "SC",
+    "state_name": "South Carolina",
+    "statutory_cite": "S.C. Code Ann. \u00a7 38-45-60, \u00a7 38-45-90, \u00a7 38-45-20; S.C. Code Regs. 69-15",
+    "tax_due_dates": [
+      "Quarterly: 30 days after end of quarter (3.0% state broker tax + 3.0% municipal broker tax = 6.0%)"
+    ],
+    "tax_periodicity": "quarterly",
+    "tax_rate": 6.0
+  },
+  "SD": {
+    "direct_procurement_rule": "2.5% direct procurement tax payable within 30 days under S.D. Codified Laws \u00a7 58-32-47.",
+    "direct_procurement_tax_rate": 2.5,
+    "ecp_accepted": true,
+    "ecp_criteria": "NRRA commercial purchaser standards.",
+    "ecp_statutory_cite": "S.D. Codified Laws \u00a7 58-32-11",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Offset against quarterly taxable premium; net credit carryover or refundable.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (South Dakota: 2.5% tax rate)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (South Dakota: \u00a7 58-32-47, 2.5% direct procurement tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (South Dakota: Quarterly filings via OPTins)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "SD",
+    "state_name": "South Dakota",
+    "statutory_cite": "S.D. Codified Laws \u00a7 58-32-44, \u00a7 58-32-47; ARSD 20:06:08",
+    "tax_due_dates": [
+      "Quarterly: within 30 days after end of quarter"
+    ],
+    "tax_periodicity": "quarterly",
+    "tax_rate": 2.5
+  },
+  "TN": {
+    "direct_procurement_rule": "5.0% direct procurement tax payable within 30 days under Tenn. Code Ann. \u00a7 56-14-111.",
+    "direct_procurement_tax_rate": 5.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "NRRA commercial purchaser standards.",
+    "ecp_statutory_cite": "Tenn. Code Ann. \u00a7 56-14-102",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Net against quarterly taxable premium; excess refundable upon annual reconciliation.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Tennessee: 5.0% premium tax rate)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Tennessee: \u00a7 56-14-111, 5.0% direct tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Tennessee: Quarterly filings via OPTins)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "TN",
+    "state_name": "Tennessee",
+    "statutory_cite": "Tenn. Code Ann. \u00a7 56-14-106, \u00a7 56-14-111; Tenn. Comp. R. & Regs. 0780-01-46",
+    "tax_due_dates": [
+      "Quarterly: within 30 days after end of quarter"
+    ],
+    "tax_periodicity": "quarterly",
+    "tax_rate": 5.0
+  },
+  "TX": {
+    "direct_procurement_rule": "4.85% direct procurement tax payable to Texas Comptroller by May 15 under Tex. Ins. Code \u00a7 226.053.",
+    "direct_procurement_tax_rate": 4.85,
+    "ecp_accepted": true,
+    "ecp_criteria": "TIC 981.0031: Insured pays >= $100k nationwide commercial P/C premium + employs qualified risk manager + satisfies net worth > $20M or revenue > $50M or 500+ employees. Exempts broker from diligent effort search.",
+    "ecp_statutory_cite": "Tex. Ins. Code \u00a7 981.0031",
+    "filing_deadline_days": 60,
+    "return_premium_credit_mechanics": "annual-reconciliation",
+    "return_premium_details": "Policy filing and return premium endorsements submitted to SLTX within 60 days per 28 TAC \u00a7 15.101; tax credits reconciled on Texas Comptroller Form FIN317; SLTX stamping fee (0.04%) credited against monthly broker invoice.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Texas: 4.85% gross premium tax)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Texas: \u00a7 226.053, 4.85% direct procurement tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Texas: SLTX 0.04% stamping fee effective Jan 2024, 60d filing deadline, FIN317 March 1)"
+    },
+    "stamping_fee_pct": 0.04,
+    "stamping_office": true,
+    "stamping_office_name": "Surplus Lines Stamping Office of Texas (SLTX)",
+    "state_code": "TX",
+    "state_name": "Texas",
+    "statutory_cite": "Tex. Ins. Code \u00a7 225.004 (Tax), \u00a7 981.001 et seq. (SLTX), \u00a7 981.101, \u00a7 226.053; 28 TAC \u00a7 15.101",
+    "tax_due_dates": [
+      "March 1 annually (Form FIN317 to Texas Comptroller; prepayment quarterly if tax >= $10,000)"
+    ],
+    "tax_periodicity": "annual",
+    "tax_rate": 4.85
+  },
+  "UT": {
+    "direct_procurement_rule": "4.25% direct procurement tax payable to State Tax Commission by March 1 under Utah Code Ann. \u00a7 31A-15-104.",
+    "direct_procurement_tax_rate": 4.25,
+    "ecp_accepted": true,
+    "ecp_criteria": "NRRA commercial purchaser standards.",
+    "ecp_statutory_cite": "Utah Code Ann. \u00a7 31A-15-103",
+    "filing_deadline_days": 45,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Endorsements filed with SLA of Utah; tax credit calculated on annual return; stamping fee credited on SLA monthly account.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Utah: 4.25% premium tax)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Utah: \u00a7 31A-15-104, 4.25% direct placement tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Utah: SLA of UT 0.15% fee, annual tax due March 1, 45d policy filing)"
+    },
+    "stamping_fee_pct": 0.15,
+    "stamping_office": true,
+    "stamping_office_name": "Surplus Line Association of Utah",
+    "state_code": "UT",
+    "state_name": "Utah",
+    "statutory_cite": "Utah Code Ann. \u00a7 31A-3-301 (Tax), \u00a7 31A-15-103 (Stamping fee), \u00a7 31A-15-104; Utah Admin. Code R590-171",
+    "tax_due_dates": [
+      "March 1 annually (monthly transaction reporting to SLA of Utah)"
+    ],
+    "tax_periodicity": "annual",
+    "tax_rate": 4.25
+  },
+  "VA": {
+    "direct_procurement_rule": "2.25% direct procurement tax payable to SCC within 30 days under Va. Code Ann. \u00a7 38.2-4810.",
+    "direct_procurement_tax_rate": 2.25,
+    "ecp_accepted": true,
+    "ecp_criteria": "Exempt commercial purchaser conforming to NRRA.",
+    "ecp_statutory_cite": "Va. Code Ann. \u00a7 38.2-4809.1",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Offset against quarterly report to SCC Bureau of Insurance; net credit carryover or refundable.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Virginia: 2.25% premium tax)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Virginia: \u00a7 38.2-4810, 2.25% direct procurement tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Virginia: Quarterly filings via SCC portal)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "VA",
+    "state_name": "Virginia",
+    "statutory_cite": "Va. Code Ann. \u00a7 38.2-4809, \u00a7 38.2-4810, \u00a7 38.2-4809.1; 14 VAC 5-350",
+    "tax_due_dates": [
+      "Quarterly: 30 days after end of quarter (plus 0.14% maintenance assessment)"
+    ],
+    "tax_periodicity": "quarterly",
+    "tax_rate": 2.25
+  },
+  "VT": {
+    "direct_procurement_rule": "3.0% direct procurement tax payable to Department of Taxes by March 1 under 8 V.S.A. \u00a7 5036(c).",
+    "direct_procurement_tax_rate": 3.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "NRRA commercial purchaser standards.",
+    "ecp_statutory_cite": "8 V.S.A. \u00a7 5022",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Offset against quarterly taxable premium; refundable upon annual reconciliation.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Vermont: 3.0% tax rate)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Vermont: \u00a7 5036(c), 3.0% direct tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Vermont: Quarterly filings via OPTins)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "VT",
+    "state_name": "Vermont",
+    "statutory_cite": "8 V.S.A. \u00a7 5035, \u00a7 5036, \u00a7 5022; Code of Vt. Rules 21-020-008",
+    "tax_due_dates": [
+      "Quarterly: within 30 days after end of quarter"
+    ],
+    "tax_periodicity": "quarterly",
+    "tax_rate": 3.0
+  },
+  "WA": {
+    "direct_procurement_rule": "2.0% direct procurement tax payable to OIC by March 1 under RCW 48.15.130.",
+    "direct_procurement_tax_rate": 2.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "NRRA commercial purchaser criteria.",
+    "ecp_statutory_cite": "RCW 48.15.015",
+    "filing_deadline_days": 60,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Return premium endorsements filed with SLA of Washington; tax credit calculated on annual return to OIC; stamping fee auto-credited.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Washington: 2.0% tax rate)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Washington: RCW 48.15.130, 2.0% direct procurement tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Washington: SLA of WA 0.10% fee, annual return March 1, 60d policy filing)"
+    },
+    "stamping_fee_pct": 0.1,
+    "stamping_office": true,
+    "stamping_office_name": "Surplus Line Association of Washington",
+    "state_code": "WA",
+    "state_name": "Washington",
+    "statutory_cite": "RCW 48.15.120 (Tax), \u00a7 48.15.043 (Stamping fee), \u00a7 48.15.130; WAC 284-15",
+    "tax_due_dates": [
+      "March 1 annually (monthly transaction reporting to SLA of WA within 60 days)"
+    ],
+    "tax_periodicity": "annual",
+    "tax_rate": 2.0
+  },
+  "WI": {
+    "direct_procurement_rule": "3.0% direct procurement tax payable to OCI by March 1 under Wis. Stat. \u00a7 618.42.",
+    "direct_procurement_tax_rate": 3.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "Exempt commercial purchaser conforming to NRRA.",
+    "ecp_statutory_cite": "Wis. Stat. \u00a7 618.41(6m)",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Offset against annual gross premium; excess credit refundable upon verified return.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Wisconsin: 3.0% tax rate)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Wisconsin: \u00a7 618.42, 3.0% direct placement tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Wisconsin: Annual return March 1 via OPTins)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "WI",
+    "state_name": "Wisconsin",
+    "statutory_cite": "Wis. Stat. \u00a7 618.41, \u00a7 618.42; Wis. Adm. Code Ins 6.17",
+    "tax_due_dates": [
+      "March 1 annually (monthly transaction reporting required)"
+    ],
+    "tax_periodicity": "annual",
+    "tax_rate": 3.0
+  },
+  "WV": {
+    "direct_procurement_rule": "4.55% direct procurement tax payable within 30 days under W. Va. Code \u00a7 33-12C-9.",
+    "direct_procurement_tax_rate": 4.55,
+    "ecp_accepted": true,
+    "ecp_criteria": "NRRA commercial purchaser standards.",
+    "ecp_statutory_cite": "W. Va. Code \u00a7 33-12C-3",
+    "filing_deadline_days": 30,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Net against quarterly taxable premium; negative balances carry over or refunded.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (West Virginia: 4.55% total tax)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (West Virginia: \u00a7 33-12C-9, 4.55% direct procurement tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (West Virginia: Quarterly filings via OPTins)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "WV",
+    "state_name": "West Virginia",
+    "statutory_cite": "W. Va. Code \u00a7 33-12C-7, \u00a7 33-12C-9, \u00a7 33-12C-3; W. Va. C.S.R. \u00a7 114-20",
+    "tax_due_dates": [
+      "Quarterly: within 30 days after end of quarter (4.0% premium tax + 0.55% Fire Marshal Tax = 4.55%)"
+    ],
+    "tax_periodicity": "quarterly",
+    "tax_rate": 4.55
+  },
+  "WY": {
+    "direct_procurement_rule": "3.0% direct procurement tax payable to DOI by March 1 under Wyo. Stat. Ann. \u00a7 26-11-120.",
+    "direct_procurement_tax_rate": 3.0,
+    "ecp_accepted": true,
+    "ecp_criteria": "NRRA commercial purchaser criteria.",
+    "ecp_statutory_cite": "Wyo. Stat. Ann. \u00a7 26-11-107",
+    "filing_deadline_days": 45,
+    "return_premium_credit_mechanics": "cash-refund",
+    "return_premium_details": "Credited on annual return; net credit refundable upon application.",
+    "sources": {
+      "naic_chart_zz7": "NAIC Model Law Chart ZZ-7 (Wyoming: 3.0% premium tax rate)",
+      "surplus_manual_app_b": "SurplusManual.com App. B (Wyoming: \u00a7 26-11-120, 3.0% direct placement tax)",
+      "wsia_chart": "WSIA Tax Filing Chart (Wyoming: Annual return March 1, 45d policy affidavit)"
+    },
+    "stamping_fee_pct": 0.0,
+    "stamping_office": false,
+    "stamping_office_name": null,
+    "state_code": "WY",
+    "state_name": "Wyoming",
+    "statutory_cite": "Wyo. Stat. Ann. \u00a7 26-11-118, \u00a7 26-11-120, \u00a7 26-11-107; WY Rules Ins. Dept. Ch. 18",
+    "tax_due_dates": [
+      "March 1 annually (affidavits due within 45 days of policy placement)"
+    ],
+    "tax_periodicity": "annual",
+    "tax_rate": 3.0
+  }
+}

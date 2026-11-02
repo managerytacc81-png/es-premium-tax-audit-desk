@@ -1,0 +1,8 @@
+policy_no,insured_name,insured_hq_state,risk_states,premium,carrier_fees,effective_date,filed_date,cancellations_returns,ecp_flag,ecp_documented,carrier_fee_taxed,state_allocated_taxes
+POL-TX-1001,Permian Basin Drilling Partners,TX,"TX,NM",250000.00,12500.00,2025-01-15,2025-02-10,0.00,false,false,false,
+POL-TX-1002,Lone Star Commercial Fleet LLC,TX,TX,120000.00,0.00,2025-01-20,2025-04-15,0.00,false,false,false,
+POL-TX-1003,Gulf Coast Marine Cargo Inc,TX,TX,450000.00,0.00,2025-02-01,2025-02-20,0.00,true,false,false,
+POL-GA-2001,Atlanta Logistics & Warehousing,GA,GA,175000.00,0.00,2025-01-10,2025-01-25,-35000.00,false,false,false,
+POL-CA-3001,Silicon Coast Robotics Inc,CA,CA,300000.00,8500.00,2025-03-01,2025-04-20,0.00,false,false,false,
+POL-TX-4001,Multi-State Supply Chain Corp,TX,"TX,CA,FL",500000.00,0.00,2025-02-15,2025-03-01,0.00,false,false,false,"{""TX"": 12125.0, ""CA"": 4500.0, ""FL"": 4940.0}"
+POL-FL-5001,Sunshine Coastal Hospitality LLC,FL,FL,220000.00,0.00,2025-01-15,2025-01-25,0.00,false,false,false,

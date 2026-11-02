@@ -1,0 +1,19 @@
+{
+  "state_code": "TX",
+  "reporting_year": 2025,
+  "form_name": "FIN317",
+  "reported_gross_premium": 1170000.0,
+  "reported_carrier_fees": 0.0,
+  "reported_taxable_premium": 1170000.0,
+  "tax_rate": 4.85,
+  "total_tax_liability": 56745.0,
+  "prepayments_credited": 25000.0,
+  "return_premium_credits_claimed": 0.0,
+  "net_tax_paid": 31745.0,
+  "reported_policies": [
+    "POL-TX-1001",
+    "POL-TX-1002",
+    "POL-TX-1003",
+    "POL-TX-1004"
+  ]
+}

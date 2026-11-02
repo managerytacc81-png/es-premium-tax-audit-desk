@@ -1,0 +1,6 @@
+filing_id,policy_no,insured_name,transaction_type,effective_date,stamped_date,gross_premium,carrier_fees,stamping_fee,calculated_tax
+SLTX-2025-001,POL-TX-1001,Permian Basin Drilling Partners,NEW,2025-01-15,2025-02-10,250000.00,12500.00,105.00,12733.25
+SLTX-2025-002,POL-TX-1002,Lone Star Commercial Fleet LLC,NEW,2025-01-20,2025-04-15,120000.00,0.00,48.00,5820.00
+SLTX-2025-003,POL-TX-1003,Gulf Coast Marine Cargo Inc,NEW,2025-02-01,2025-02-20,450000.00,0.00,180.00,21825.00
+SLTX-2025-004,POL-TX-1004,Brazos Midstream Energy LLC,NEW,2025-03-01,2025-03-15,350000.00,5000.00,142.00,17217.50
+SLTX-2025-005,POL-TX-1005,Dallas Cold Storage LLC,CANCELLATION,2025-05-01,2025-05-10,-40000.00,0.00,-16.00,-1940.00
